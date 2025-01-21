@@ -8,6 +8,8 @@
 
 - 👨‍💻 All of my projects are available at [lorenzolucchesi.vercel.app](https://lorenzolucchesi.vercel.app)
 
+- 📝 You can read my articles at [Medium](https://medium.com/@lucchesilorenzo)
+
 - 💬 Ask me about **React/Next.js**
 
 - 📫 How to reach me: **lorenzolucchesi3@gmail.com**
@@ -30,4 +32,5 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
 </div>
