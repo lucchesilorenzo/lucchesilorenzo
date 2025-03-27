@@ -4,13 +4,13 @@
 
 <h2 align="left">About me</h2>
 
-- 🌱 I’m currently learning **PHP/Laravel**
+- 🌱 I’m currently learning **Docker**
 
 - 👨‍💻 All of my projects are available at [lorenzolucchesi.vercel.app](https://lorenzolucchesi.vercel.app)
 
 - 📝 You can read my articles at [Medium](https://medium.com/@lucchesilorenzo)
 
-- 💬 Ask me about **React/Next.js**
+- 💬 Ask me about **React/Next.js/Laravel**
 
 - 📫 How to reach me: **lorenzolucchesi3@gmail.com**
 
@@ -33,4 +33,5 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
 </div>
