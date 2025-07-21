@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
 
-<h3 align="center">A passionate Web Developer from Italy 🇮🇹</h3>
+<h3 align="center">A passionate Full Stack Developer from Italy 🇮🇹</h3>
 
 <h2 align="left">About me</h2>
+
+- 🔭 I’m currently working on [QuickBite](https://github.com/lucchesilorenzo/quickbite), a full stack food delivery web app using **TypeScript/React** on the frontend and **PHP/Laravel** on the backend
 
 - 🌱 I’m currently learning **Docker**
 
