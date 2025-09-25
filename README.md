@@ -32,7 +32,6 @@
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
