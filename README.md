@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on [QuickBite](https://github.com/lucchesilorenzo/quickbite), a full stack food delivery web app using **TypeScript/React** on the frontend and **PHP/Laravel** on the backend
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Vitest / Testing Library**
 
 - 👨‍💻 All of my projects are available at [lorenzolucchesi.vercel.app](https://lorenzolucchesi.vercel.app)
 
 - 📝 You can read my articles at [Medium](https://medium.com/@lucchesilorenzo)
 
-- 💬 Ask me about **React/Next.js/Laravel**
+- 💬 Ask me about **React / Next.js / Laravel**
 
 - 📫 How to reach me: **lorenzolucchesi3@gmail.com**
 
